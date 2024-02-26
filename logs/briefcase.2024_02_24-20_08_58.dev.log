@@ -1,0 +1,217 @@
+Date/Time:       2024-02-24 20:08:58 
+Command line:    D:\python\app\venv\Scripts\briefcase dev
+
+OS Release:      Windows 10
+OS Version:      10.0.22621
+Architecture:    AMD64
+Platform:        Windows-10-10.0.22621-SP0
+
+Python exe:      D:\python\app\venv\Scripts\python.exe
+Python version:  3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.16
+Target platform: windows
+Target format:   None
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\Yepo\AppData\Roaming
+    CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_7768_DNBDADCIIHYTVOLW
+    COLORTERM=truecolor
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=DESKTOP-RACMC10
+    COMSPEC=C:\Windows\system32\cmd.exe
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    EFC_6196=1
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    GIT_ASKPASS=********************
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\Yepo
+    LANG=ru_RU.UTF-8
+    LOCALAPPDATA=C:\Users\Yepo\AppData\Local
+    LOGONSERVER=\\DESKTOP-RACMC10
+    NUMBER_OF_PROCESSORS=4
+    ONEDRIVE=C:\Users\Yepo\OneDrive
+    ONEDRIVECONSUMER=C:\Users\Yepo\OneDrive
+    ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+    OS=Windows_NT
+    PATH=D:\python\app\venv\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\dotnet\;C:\Program Files\PuTTY\;C:\Users\Yepo\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Yepo\AppData\Local\Programs\Python\Python310\;C:\Users\Yepo\AppData\Local\Microsoft\WindowsApps;C:\Users\Yepo\AppData\Local\Programs\Microsoft VS Code\bin;
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 122 Stepping 1, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=7a01
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PROMPT=(venv) $P$G
+    PSMODULEPATH=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+    PUBLIC=C:\Users\Public
+    PYTHONSTARTUP=c:\Users\Yepo\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\pythonrc.py
+    SESSIONNAME=Console
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\Windows
+    TEMP=C:\Users\Yepo\AppData\Local\Temp
+    TERM_PROGRAM=vscode
+    TERM_PROGRAM_VERSION=1.86.2
+    TMP=C:\Users\Yepo\AppData\Local\Temp
+    USERDOMAIN=DESKTOP-RACMC10
+    USERDOMAIN_ROAMINGPROFILE=DESKTOP-RACMC10
+    USERNAME=Yepo
+    USERPROFILE=C:\Users\Yepo
+    VBOX_MSI_INSTALL_PATH=E:\Oracle\VirtualBox\
+    VIRTUAL_ENV=D:\python\app\venv
+    VIRTUAL_ENV_PROMPT=(venv) 
+    VSCODE_ENV_PREPEND=PATH=D\x3a\python\app\venv\Scripts;
+    VSCODE_ENV_REPLACE=PROMPT=(venv) $P$G:VIRTUAL_ENV=D\x3a\python\app\venv:VIRTUAL_ENV_PROMPT=(venv) :_OLD_VIRTUAL_PROMPT=$P$G
+    VSCODE_GIT_ASKPASS_EXTRA_ARGS=********************
+    VSCODE_GIT_ASKPASS_MAIN=********************
+    VSCODE_GIT_ASKPASS_NODE=********************
+    VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-febabac5d7-sock
+    WINDIR=C:\Windows
+    ZES_ENABLE_SYSMAN=1
+    _OLD_VIRTUAL_PROMPT=$P$G
+
+Briefcase Log:
+[20:08:54]                                                                                                                                                                dev.py:228
+           [Call] Starting in dev mode...                                                                                                                                 dev.py:228
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:712
+           >>>     'D:\python\app\venv\Scripts\python.exe' -c 'import runpy, sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("Call", run_name="__main__", subprocess.py:713
+           alter_sys=True)'                                                                                                                                                         
+           >>> Working Directory:                                                                                                                                  subprocess.py:720
+           >>>     C:\Users\Yepo                                                                                                                                   subprocess.py:721
+           >>> Environment Overrides:                                                                                                                              subprocess.py:730
+           >>>     PYTHONPATH=D:\python\app\Call\src                                                                                                               subprocess.py:732
+           >>>     PYTHONMALLOC=default                                                                                                                            subprocess.py:732
+           >>>     PYTHONUNBUFFERED=1                                                                                                                              subprocess.py:732
+           >>>     PYTHONDEVMODE=1                                                                                                                                 subprocess.py:732
+           >>>     PYTHONUTF8=1                                                                                                                                    subprocess.py:732
+           ===========================================================================                                                                                    run.py:160
+[20:08:57] Traceback (most recent call last):                                                                                                                      subprocess.py:681
+             File "<string>", line 1, in <module>                                                                                                                  subprocess.py:681
+             File "C:\Users\Yepo\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 224, in run_module                                                    subprocess.py:681
+               return _run_module_code(code, init_globals, run_name, mod_spec)                                                                                     subprocess.py:681
+             File "C:\Users\Yepo\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 96, in _run_module_code                                               subprocess.py:681
+               _run_code(code, mod_globals, init_globals,                                                                                                          subprocess.py:681
+             File "C:\Users\Yepo\AppData\Local\Programs\Python\Python310\lib\runpy.py", line 86, in _run_code                                                      subprocess.py:681
+               exec(code, run_globals)                                                                                                                             subprocess.py:681
+             File "D:\python\app\Call\src\Call\__main__.py", line 4, in <module>                                                                                   subprocess.py:681
+               main().main_loop()                                                                                                                                  subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga\app.py", line 749, in main_loop                                                                       subprocess.py:681
+               self._impl.main_loop()                                                                                                                              subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga_winforms\app.py", line 284, in main_loop                                                              subprocess.py:681
+               raise self._exception                                                                                                                               subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga_winforms\app.py", line 257, in run_app                                                                subprocess.py:681
+               self.create()                                                                                                                                       subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga_winforms\app.py", line 113, in create                                                                 subprocess.py:681
+               self.interface._startup()                                                                                                                           subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga\app.py", line 710, in _startup                                                                        subprocess.py:681
+               self.startup()                                                                                                                                      subprocess.py:681
+             File "D:\python\app\Call\src\Call\app.py", line 21, in startup                                                                                        subprocess.py:681
+               b_box.add(button2)                                                                                                                                  subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga\widgets\base.py", line 88, in add                                                                     subprocess.py:681
+               self._assert_can_have_children()                                                                                                                    subprocess.py:681
+             File "D:\python\app\venv\lib\site-packages\toga\widgets\base.py", line 76, in _assert_can_have_children                                               subprocess.py:681
+               raise ValueError(f"{type(self).__name__} cannot have children")                                                                                     subprocess.py:681
+           ValueError: Button cannot have children                                                                                                                 subprocess.py:681
+[20:08:58]                                                                                                                                                            __main__.py:40
+           Problem running app Call.                                                                                                                                  __main__.py:41
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ D:\python\app\venv\lib\site-packages\briefcase\__main__.py:25 in main                                                                                                            │
+│                                                                                                                                                                                  │
+│   22 │   │   command = Command(logger=logger, console=console)                                                                                                                   │
+│   23 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   24 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 25 │   │   command(**options)                                                                                                                                                  │
+│   26 │   except HelpText as e:                                                                                                                                                   │
+│   27 │   │   logger.info()                                                                                                                                                       │
+│   28 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                      │
+│ │       command = <briefcase.commands.dev.DevCommand object at 0x0000019D5F635780>                                        │                                                      │
+│ │       Command = <class 'briefcase.commands.dev.DevCommand'>                                                             │                                                      │
+│ │       console = <briefcase.console.Console object at 0x0000019D5F1ACA90>                                                │                                                      │
+│ │             e = BriefcaseCommandError('Problem running app Call.')                                                      │                                                      │
+│ │ extra_cmdline = []                                                                                                      │                                                      │
+│ │        logger = <briefcase.console.Log object at 0x0000019D5F1E6020>                                                    │                                                      │
+│ │       options = {'appname': None, 'update_requirements': False, 'run_app': True, 'test_mode': False, 'passthrough': []} │                                                      │
+│ │        result = 200                                                                                                     │                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                      │
+│                                                                                                                                                                                  │
+│ D:\python\app\venv\lib\site-packages\briefcase\commands\dev.py:230 in __call__                                                                                                   │
+│                                                                                                                                                                                  │
+│   227 │   │   │   else:                                                                                                                                                          │
+│   228 │   │   │   │   self.logger.info("Starting in dev mode...", prefix=app.app_name)                                                                                           │
+│   229 │   │   │   env = self.get_environment(app, test_mode=test_mode)                                                                                                           │
+│ ❱ 230 │   │   │   return self.run_dev_app(                                                                                                                                       │
+│   231 │   │   │   │   app,                                                                                                                                                       │
+│   232 │   │   │   │   env,                                                                                                                                                       │
+│   233 │   │   │   │   test_mode=test_mode,                                                                                                                                       │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────────────────────────╮              │
+│ │                 app = <com.example.Call v0.0.1 AppConfig>                                                                                                       │              │
+│ │             appname = None                                                                                                                                      │              │
+│ │      dist_info_path = WindowsPath('D:/python/app/Call/src/Call.dist-info')                                                                                      │              │
+│ │                 env = {'PYTHONPATH': 'D:\\python\\app\\Call\\src', 'PYTHONMALLOC': 'default', 'PYTHONUNBUFFERED': '1', 'PYTHONDEVMODE': '1', 'PYTHONUTF8': '1'} │              │
+│ │             options = {}                                                                                                                                        │              │
+│ │         passthrough = []                                                                                                                                        │              │
+│ │             run_app = True                                                                                                                                      │              │
+│ │                self = <briefcase.commands.dev.DevCommand object at 0x0000019D5F635780>                                                                          │              │
+│ │           test_mode = False                                                                                                                                     │              │
+│ │ update_requirements = False                                                                                                                                     │              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯              │
+│                                                                                                                                                                                  │
+│ D:\python\app\venv\lib\site-packages\briefcase\commands\dev.py:151 in run_dev_app                                                                                                │
+│                                                                                                                                                                                  │
+│   148 │   │   )                                                                                                                                                                  │
+│   149 │   │                                                                                                                                                                      │
+│   150 │   │   # Start streaming logs for the app.                                                                                                                                │
+│ ❱ 151 │   │   self._stream_app_logs(                                                                                                                                             │
+│   152 │   │   │   app,                                                                                                                                                           │
+│   153 │   │   │   popen=app_popen,                                                                                                                                               │
+│   154 │   │   │   test_mode=test_mode,                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────────────────────╮                      │
+│ │         app = <com.example.Call v0.0.1 AppConfig>                                                                                                       │                      │
+│ │   app_popen = <Popen: returncode: 1 args: ['D:\\python\\app\\venv\\Scripts\\python.exe', '...>                                                          │                      │
+│ │         env = {'PYTHONPATH': 'D:\\python\\app\\Call\\src', 'PYTHONMALLOC': 'default', 'PYTHONUNBUFFERED': '1', 'PYTHONDEVMODE': '1', 'PYTHONUTF8': '1'} │                      │
+│ │ main_module = 'Call'                                                                                                                                    │                      │
+│ │     options = {}                                                                                                                                        │                      │
+│ │ passthrough = []                                                                                                                                        │                      │
+│ │        self = <briefcase.commands.dev.DevCommand object at 0x0000019D5F635780>                                                                          │                      │
+│ │   test_mode = False                                                                                                                                     │                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                      │
+│                                                                                                                                                                                  │
+│ D:\python\app\venv\lib\site-packages\briefcase\commands\run.py:190 in _stream_app_logs                                                                                           │
+│                                                                                                                                                                                  │
+│   187 │   │   │   │   # If we're monitoring an actual app (not just a log stream),                                                                                               │
+│   188 │   │   │   │   # and the app didn't exit cleanly, surface the error to the user.                                                                                          │
+│   189 │   │   │   │   if popen.returncode != 0:                                                                                                                                  │
+│ ❱ 190 │   │   │   │   │   raise BriefcaseCommandError(f"Problem running app {app.app_name}.")                                                                                    │
+│   191 │   │                                                                                                                                                                      │
+│   192 │   │   except KeyboardInterrupt:                                                                                                                                          │
+│   193 │   │   │   pass  # Catch CTRL-C to exit normally                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │          app = <com.example.Call v0.0.1 AppConfig>                                              │                                                                              │
+│ │ clean_filter = None                                                                             │                                                                              │
+│ │ clean_output = False                                                                            │                                                                              │
+│ │  exit_filter = <function LogFilter.test_filter.<locals>.filter_func at 0x0000019D6285F250>      │                                                                              │
+│ │   log_filter = <briefcase.commands.run.LogFilter object at 0x0000019D62869E10>                  │                                                                              │
+│ │   log_stream = False                                                                            │                                                                              │
+│ │        popen = <Popen: returncode: 1 args: ['D:\\python\\app\\venv\\Scripts\\python.exe', '...> │                                                                              │
+│ │         self = <briefcase.commands.dev.DevCommand object at 0x0000019D5F635780>                 │                                                                              │
+│ │    stop_func = <function RunAppMixin.<lambda> at 0x0000019D62814A60>                            │                                                                              │
+│ │    test_mode = False                                                                            │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Problem running app Call.
